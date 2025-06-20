@@ -1,9 +1,10 @@
 [![Anicetus's GitHub stats](https://github-readme-stats.vercel.app/api?username=invictus-anic3tus)](https://anicetus.dev)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=invictus-anic3tus&layout=compact&theme=tokyonight&langs_count=8)
 
-### The anicept vex
+### My fav projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=invictus-anic3tus&repo=anicept-vex)](https://github.com/invictus-anic3tus/anicept-vex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=invictus-anic3tus&repo=v4)](https://github.com/invictus-anic3tus/v4)
 
 - 👋 Hi, I’m @invictus-anic3tus
 - 👀 I’m interested in coding, electronics-ing, and all things design and mechanics!
