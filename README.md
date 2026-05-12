@@ -1,10 +1,10 @@
-[![Anicetus's GitHub stats](https://github-readme-stats.vercel.app/api?username=invictus-anic3tus)](https://anicetus.dev)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=invictus-anic3tus&layout=compact&theme=tokyonight&langs_count=8)
+[![Anicetus's GitHub stats](https://github-stats-extended.vercel.app/api?username=invictus-anic3tus)](https://anicetus.dev)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=invictus-anic3tus&layout=compact&theme=tokyonight&langs_count=8)
 
 ### My fav projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=invictus-anic3tus&repo=anicept-cel)](https://github.com/invictus-anic3tus/anicept-cel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=invictus-anic3tus&repo=tempus)](https://github.com/invictus-anic3tus/tempus)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=invictus-anic3tus&repo=anicept-cel)](https://github.com/invictus-anic3tus/anicept-cel)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=invictus-anic3tus&repo=tempus)](https://github.com/invictus-anic3tus/tempus)
 
 Hi! My name is Anicetus (Latin for "unconquered", and I'm an avid hardware lover from Texas. I'm obsessed (addicted?) with 3D printers, and I enjoy building custom PCBs to make fun and useful projects. Right now, I'm working on the Tempus, a custom ESP32-based smartwatch with tons of features, as well as the Cel, a small and super-fast 3D printer. I brand all my favorite projects with the name Anicept, which comes from "Anicetus" and "concept." So if you see that name floating around a hardware project, chances are, it's mine!
 
